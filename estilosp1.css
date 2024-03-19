@@ -1,0 +1,139 @@
+body{
+    background-color: #E4CEC1;
+    text-align: center;
+    margin: 0;
+}
+
+
+h1 {
+   
+    color: #DB7340;
+    font-family: "Truculenta";
+    font-style: italic;
+    font-size: 70px;
+}
+
+
+h3.uno {
+    color: #A8361E;
+    font-family: "ArialJosefin Slab";
+    font-style:  italic;
+    font-size: 30px; 
+}
+
+
+h3.dos {
+    color: #A8361E;
+    font-family: "ArialJosefin Slab";
+    font-style: italic;
+    font-size: 30px;
+}
+
+
+div.centro{ 
+
+    background-color: #DC7A5F;
+    color: #A8361E;
+    font-size: 30px;
+    font-family: "Truculenta";
+    padding: 70px; 
+    margin-top: 40px;
+    line-height: 70px;
+}
+
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+	background-color:#f9f9f9;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#DB7340;
+	font-family:"Truculenta";
+    font-style: italic;
+	font-size:20px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+
+    float: left;
+    width: 25%;
+    margin: 35px;
+    margin-left: 300px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+	background-color:#e9e9e9;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+    
+}
+
+
+.myButton2 {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
+	background-color:#f9f9f9;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#DB7340;
+	font-family:"Truculenta";
+    font-style: italic;
+	font-size:20px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+
+    float: right;
+    width: 25%;
+    margin: 35px;
+    margin-right: 300px;
+}
+.myButton2:hover {
+	background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
+	background-color:#e9e9e9;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+    
+}
+
+a{
+    align-self: center;
+    width: 25%;
+    margin: 300px;
+    margin-right: 150px;
+    margin-left: 150px;
+    padding-bottom: 50px;
+
+    color:#DB7340;
+	font-family:"Truculenta";
+    font-style: italic;
+	font-size:20px;
+	font-weight:bold;
+
+}
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
